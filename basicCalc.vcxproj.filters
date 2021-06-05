@@ -18,9 +18,6 @@
     <ClCompile Include="basicCalc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BigInt.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
